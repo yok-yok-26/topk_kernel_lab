@@ -1,0 +1,67 @@
+# Build outputs
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Logs, caches, and temporary files
+*.log
+*.stdout
+*.stderr
+*.err
+*.bak
+tmp/
+temp/
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+
+# CUDA profiler outputs
+*.ncu-rep
+*.nsys-rep
+*.qdrep
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Local analysis documents and diagnostic reports
+docs/
+reports/*
+reports/roofline/
+
+# Public benchmark summary
+!reports/benchmark/
+reports/benchmark/*
+!reports/benchmark/full_scale_all_versions_summary_latest.csv
+
+# Public performance charts and compact comparison tables
+!reports/trends/
+reports/trends/*
+!reports/trends/full_scale_*.svg
+!reports/trends/full_scale_all_versions_wide_latest.csv
+!reports/trends/full_scale_best_user_vs_baselines_latest.csv
+
+# Public overview figures
+!reports/figures/
+reports/figures/*
+!reports/figures/topk_latest/
+reports/figures/topk_latest/*
+!reports/figures/topk_latest/*.svg
+!reports/figures/topk_latest/*.png
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo

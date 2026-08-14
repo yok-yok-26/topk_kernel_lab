@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="690" viewBox="0 0 1160 690">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="95.0" y="34.0" font-family="Arial,sans-serif" font-size="22" text-anchor="start" font-weight="bold" fill="#222">Irregular N scaling: B=64, K=8</text>
+<line x1="95" y1="597.8" x2="900" y2="597.8" stroke="#dedede" stroke-width="1"/>
+<text x="85.0" y="601.8" font-family="Arial,sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#222">0.02</text>
+<line x1="95" y1="515.2" x2="900" y2="515.2" stroke="#dedede" stroke-width="1"/>
+<text x="85.0" y="519.2" font-family="Arial,sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#222">0.05</text>
+<line x1="95" y1="452.7" x2="900" y2="452.7" stroke="#dedede" stroke-width="1"/>
+<text x="85.0" y="456.7" font-family="Arial,sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#222">0.1</text>
+<line x1="95" y1="390.2" x2="900" y2="390.2" stroke="#dedede" stroke-width="1"/>
+<text x="85.0" y="394.2" font-family="Arial,sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#222">0.2</text>
+<line x1="95" y1="307.6" x2="900" y2="307.6" stroke="#dedede" stroke-width="1"/>
+<text x="85.0" y="311.6" font-family="Arial,sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#222">0.5</text>
+<line x1="95" y1="245.1" x2="900" y2="245.1" stroke="#dedede" stroke-width="1"/>
+<text x="85.0" y="249.1" font-family="Arial,sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#222">1</text>
+<line x1="95" y1="182.6" x2="900" y2="182.6" stroke="#dedede" stroke-width="1"/>
+<text x="85.0" y="186.6" font-family="Arial,sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#222">2</text>
+<line x1="95" y1="100.0" x2="900" y2="100.0" stroke="#dedede" stroke-width="1"/>
+<text x="85.0" y="104.0" font-family="Arial,sans-serif" font-size="12" text-anchor="end" font-weight="normal" fill="#222">5</text>
+<line x1="95.0" y1="70" x2="95.0" y2="605" stroke="#f0f0f0" stroke-width="1"/>
+<text x="95.0" y="629.0" font-family="Arial,sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#222">4093</text>
+<line x1="229.7" y1="70" x2="229.7" y2="605" stroke="#f0f0f0" stroke-width="1"/>
+<text x="229.7" y="629.0" font-family="Arial,sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#222">8209</text>
+<line x1="497.6" y1="70" x2="497.6" y2="605" stroke="#f0f0f0" stroke-width="1"/>
+<text x="497.6" y="629.0" font-family="Arial,sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#222">32771</text>
+<line x1="631.7" y1="70" x2="631.7" y2="605" stroke="#f0f0f0" stroke-width="1"/>
+<text x="631.7" y="629.0" font-family="Arial,sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#222">65521</text>
+<line x1="713.5" y1="70" x2="713.5" y2="605" stroke="#f0f0f0" stroke-width="1"/>
+<text x="713.5" y="629.0" font-family="Arial,sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#222">100003</text>
+<line x1="900.0" y1="70" x2="900.0" y2="605" stroke="#f0f0f0" stroke-width="1"/>
+<text x="900.0" y="629.0" font-family="Arial,sans-serif" font-size="11" text-anchor="middle" font-weight="normal" fill="#222">262139</text>
+<line x1="95" y1="70" x2="95" y2="605" stroke="#333"/>
+<line x1="95" y1="605" x2="900" y2="605" stroke="#333"/>
+<text x="497.5" y="665.0" font-family="Arial,sans-serif" font-size="14" text-anchor="middle" font-weight="normal" fill="#222">N</text>
+<text x="24" y="337.5" font-family="Arial,sans-serif" font-size="14" text-anchor="middle" transform="rotate(-90 24 337.5)">Median latency (ms, log scale)</text>
+<polyline points="95.0,446.6 229.7,387.1 497.6,277.4 631.7,221.6 713.5,183.5 900.0,97.1" fill="none" stroke="#8c564b" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="95.0" cy="446.6" r="3.3" fill="#8c564b"/>
+<circle cx="229.7" cy="387.1" r="3.3" fill="#8c564b"/>
+<circle cx="497.6" cy="277.4" r="3.3" fill="#8c564b"/>
+<circle cx="631.7" cy="221.6" r="3.3" fill="#8c564b"/>
+<circle cx="713.5" cy="183.5" r="3.3" fill="#8c564b"/>
+<circle cx="900.0" cy="97.1" r="3.3" fill="#8c564b"/>
+<line x1="924" y1="92" x2="954" y2="92" stroke="#8c564b" stroke-width="3"/>
+<text x="964.0" y="97.0" font-family="Arial,sans-serif" font-size="13" text-anchor="start" font-weight="normal" fill="#222">V1</text>
+<polyline points="95.0,516.6 229.7,458.2 497.6,362.3 631.7,304.2 713.5,268.3 900.0,182.1" fill="none" stroke="#0072b2" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="95.0" cy="516.6" r="3.3" fill="#0072b2"/>
+<circle cx="229.7" cy="458.2" r="3.3" fill="#0072b2"/>
+<circle cx="497.6" cy="362.3" r="3.3" fill="#0072b2"/>
+<circle cx="631.7" cy="304.2" r="3.3" fill="#0072b2"/>
+<circle cx="713.5" cy="268.3" r="3.3" fill="#0072b2"/>
+<circle cx="900.0" cy="182.1" r="3.3" fill="#0072b2"/>
+<line x1="924" y1="122" x2="954" y2="122" stroke="#0072b2" stroke-width="3"/>
+<text x="964.0" y="127.0" font-family="Arial,sans-serif" font-size="13" text-anchor="start" font-weight="normal" fill="#222">V2</text>
+<polyline points="95.0,516.5 229.7,460.0 497.6,361.7 631.7,306.6 713.5,267.8 900.0,180.9" fill="none" stroke="#009e73" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="95.0" cy="516.5" r="3.3" fill="#009e73"/>
+<circle cx="229.7" cy="460.0" r="3.3" fill="#009e73"/>
+<circle cx="497.6" cy="361.7" r="3.3" fill="#009e73"/>
+<circle cx="631.7" cy="306.6" r="3.3" fill="#009e73"/>
+<circle cx="713.5" cy="267.8" r="3.3" fill="#009e73"/>
+<circle cx="900.0" cy="180.9" r="3.3" fill="#009e73"/>
+<line x1="924" y1="152" x2="954" y2="152" stroke="#009e73" stroke-width="3"/>
+<text x="964.0" y="157.0" font-family="Arial,sans-serif" font-size="13" text-anchor="start" font-weight="normal" fill="#222">V3</text>
+<polyline points="95.0,579.1 229.7,565.1 497.6,505.8 631.7,459.6 713.5,430.9 900.0,365.0" fill="none" stroke="#d55e00" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="95.0" cy="579.1" r="3.3" fill="#d55e00"/>
+<circle cx="229.7" cy="565.1" r="3.3" fill="#d55e00"/>
+<circle cx="497.6" cy="505.8" r="3.3" fill="#d55e00"/>
+<circle cx="631.7" cy="459.6" r="3.3" fill="#d55e00"/>
+<circle cx="713.5" cy="430.9" r="3.3" fill="#d55e00"/>
+<circle cx="900.0" cy="365.0" r="3.3" fill="#d55e00"/>
+<line x1="924" y1="182" x2="954" y2="182" stroke="#d55e00" stroke-width="3"/>
+<text x="964.0" y="187.0" font-family="Arial,sans-serif" font-size="13" text-anchor="start" font-weight="normal" fill="#222">TensorRT TopK</text>
+<polyline points="95.0,553.2 229.7,423.8 497.6,323.0 631.7,260.0 713.5,213.8 900.0,114.1" fill="none" stroke="#cc79a7" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="95.0" cy="553.2" r="3.3" fill="#cc79a7"/>
+<circle cx="229.7" cy="423.8" r="3.3" fill="#cc79a7"/>
+<circle cx="497.6" cy="323.0" r="3.3" fill="#cc79a7"/>
+<circle cx="631.7" cy="260.0" r="3.3" fill="#cc79a7"/>
+<circle cx="713.5" cy="213.8" r="3.3" fill="#cc79a7"/>
+<circle cx="900.0" cy="114.1" r="3.3" fill="#cc79a7"/>
+<line x1="924" y1="212" x2="954" y2="212" stroke="#cc79a7" stroke-width="3"/>
+<text x="964.0" y="217.0" font-family="Arial,sans-serif" font-size="13" text-anchor="start" font-weight="normal" fill="#222">CUB stable full sort</text>
+<polyline points="95.0,475.2 229.7,427.2 497.6,329.6 631.7,259.3 713.5,212.6 900.0,119.3" fill="none" stroke="#7f7f7f" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="95.0" cy="475.2" r="3.3" fill="#7f7f7f"/>
+<circle cx="229.7" cy="427.2" r="3.3" fill="#7f7f7f"/>
+<circle cx="497.6" cy="329.6" r="3.3" fill="#7f7f7f"/>
+<circle cx="631.7" cy="259.3" r="3.3" fill="#7f7f7f"/>
+<circle cx="713.5" cy="212.6" r="3.3" fill="#7f7f7f"/>
+<circle cx="900.0" cy="119.3" r="3.3" fill="#7f7f7f"/>
+<line x1="924" y1="242" x2="954" y2="242" stroke="#7f7f7f" stroke-width="3"/>
+<text x="964.0" y="247.0" font-family="Arial,sans-serif" font-size="13" text-anchor="start" font-weight="normal" fill="#222">CUB fixed radix</text>
+<text x="95.0" y="686.0" font-family="Arial,sans-serif" font-size="11" text-anchor="start" font-weight="normal" fill="#555">Same-session benchmark: 5 warmups, 20 timed iterations, 3-5 independent trials; point = median.</text>
+</svg>
